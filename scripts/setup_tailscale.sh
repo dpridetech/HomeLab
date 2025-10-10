@@ -1,6 +1,8 @@
 #!/bin/bash
 # Tailscale setup script for Ubuntu Server 22.04
 
+set -e # Exit on error
+
 echo "Updating and upgrading the system..."
 sudo apt update && sudo apt upgrade -y
 
