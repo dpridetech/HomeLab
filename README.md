@@ -6,6 +6,8 @@ My goal is to build practical skills in **networking, Linux administration, and 
 
 In the future, I plan to migrate from a single host to a **dedicated mini-server cluster** for improved performance, uptime, and scalability.
 
+This homelab project is a hands-on learning portfolio. I used ChatGPT as a guide to explore concepts while performing all setups, scripting, and experimentation myself.
+
 ---
 
 ## 🖥️ Hardware Specs
